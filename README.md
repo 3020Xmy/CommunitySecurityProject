@@ -1,0 +1,2 @@
+# CommunitySecurityProject
+基于OpenCV的社区安防系统
